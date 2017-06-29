@@ -9,11 +9,13 @@
 using namespace std;
 
 void instructionsJohnson();
+void AbdelAitroua();
 
 int main()
 {	
 	char pause;
 	instructionsJohnson();
+	AbdelAitroua();
 	cin >> pause;
 	return 0;
 }
@@ -30,4 +32,9 @@ void instructionsJohnson()
 	cout << "6) Commit the changes to the file on your local machine. \n";
 	cout << "7) Push the committed changes to your remote GitHub repository. \n";
 	cout << "8) Submit a Pull Request with the updated file. \n";
+}
+
+void AbdelAitroua(){
+	cout << "Abdel Aitroua" << endl;
+	cout << "Chuck Norris Said: Chuck Norris CAN devide by zero" << endl;
 }
