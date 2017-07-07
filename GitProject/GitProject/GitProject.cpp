@@ -23,7 +23,7 @@ int main()
 void instructionsJohnson()
 {
 	cout << "For this assignment you will:  \n";
-	cout << "1) Fork this file from my GitHub repository to yours. \n"; 
+	cout << "1) Fork this repository from my GitHub account to yours. \n"; 
 	cout << "2) Clone this file to your local machine. \n";
 	cout << "3) Add a function prototype at the top of this source file, named YourLastName. \n";
 	cout << "4) Add a function definition at the bottom of the file. \n";
