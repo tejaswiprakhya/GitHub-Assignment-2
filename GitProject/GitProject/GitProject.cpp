@@ -43,5 +43,6 @@ void AbdelAitroua(){
 void Redhead()
 {
 	cout << "Johann Redhead" << endl;
-	cout << "Chuck Norris has a diary. It's called the Guinness Book of World Records." << endl;
+	cout << "Chuck Norris has a diary. It's called the Guinness Book of World Record." << endl;
+	
 }
