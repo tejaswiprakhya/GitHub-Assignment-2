@@ -10,6 +10,7 @@ using namespace std;
 
 void instructionsJohnson();
 void AbdelAitroua();
+void smith();
 
 int main()
 {	
@@ -37,4 +38,9 @@ void instructionsJohnson()
 void AbdelAitroua(){
 	cout << "Abdel Aitroua" << endl;
 	cout << "Chuck Norris Said: Chuck Norris CAN devide by zero" << endl;
+}
+
+void smith(){
+	cout << "Tellon Smith" << endl;
+	cout << "Chuck Norris can kill two stones with one bird" << endl;
 }
