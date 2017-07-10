@@ -10,17 +10,17 @@ using namespace std;
 
 void instructionsJohnson();
 void AbdelAitroua();
+void Shelton();
 void RyanLuig();
-
 void AndrewNash();
 void MatthewTrebing();
-
 
 int main()
 {	
 	char pause;
 	instructionsJohnson();
 	AbdelAitroua();
+	Shelton();
 	AndrewNash();
 	MatthewTrebing();
 	cin >> pause;
@@ -46,6 +46,12 @@ void AbdelAitroua(){
 	cout << "Chuck Norris Said: Chuck Norris CAN devide by zero" << endl;
 }
 
+void Shelton()
+{
+	cout << "Benjamin Shelton" << endl;
+	cout << "Chuck Norris can believe it's not butter" << endl;
+}
+
 
 void RyanLuig(){
 	cout << "Ryan Luig" << endl;
@@ -63,5 +69,6 @@ void MatthewTrebing()
 	cout << "Matthew Trebing" << endl;
 	cout << "Jack was nimble, Jack was quick, but Jack still couldn't dodge Chuck Norris' roundhouse kick." << endl;
 }
+
 
 
