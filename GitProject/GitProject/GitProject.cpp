@@ -9,13 +9,13 @@
 using namespace std;
 
 void instructionsJohnson();
-void AbdelAitroua();
+void Vootkuri();
 
 int main()
 {	
 	char pause;
 	instructionsJohnson();
-	AbdelAitroua();
+	Vootkuri();
 	cin >> pause;
 	return 0;
 }
@@ -34,7 +34,7 @@ void instructionsJohnson()
 	cout << "8) Submit a Pull Request with the updated file. \n";
 }
 
-void AbdelAitroua(){
-	cout << "Abdel Aitroua" << endl;
+void Vootkuri(){
+	cout << "Thejaswini reddy Vootkuri" << endl;
 	cout << "Chuck Norris Said: Chuck Norris CAN devide by zero" << endl;
 }
