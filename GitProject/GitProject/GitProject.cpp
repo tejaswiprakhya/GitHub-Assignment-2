@@ -9,6 +9,7 @@
 using namespace std;
 
 void instructionsJohnson();
+void Redhead();
 void AbdelAitroua();
 
 int main()
@@ -37,4 +38,10 @@ void instructionsJohnson()
 void AbdelAitroua(){
 	cout << "Abdel Aitroua" << endl;
 	cout << "Chuck Norris Said: Chuck Norris CAN devide by zero" << endl;
+}
+
+void Redhead()
+{
+	cout << "Johann Redhead" << endl;
+	cout << "Chuck Norris has a diary. It's called the Guinness Book of World Records." << endl;
 }
