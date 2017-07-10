@@ -16,6 +16,7 @@ int main()
 {	
 	char pause;
 	instructionsJohnson();
+	Redhead();
 	AbdelAitroua();
 	cin >> pause;
 	return 0;
@@ -43,6 +44,5 @@ void AbdelAitroua(){
 void Redhead()
 {
 	cout << "Johann Redhead" << endl;
-	cout << "Chuck Norris has a diary. It's called the Guinness Book of World Record." << endl;
-	
+	cout << "Chuck Norris has a diary. It's called the Guinness Book of World Records." << endl;
 }
