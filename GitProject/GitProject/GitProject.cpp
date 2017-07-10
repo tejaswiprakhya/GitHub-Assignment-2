@@ -10,6 +10,7 @@ using namespace std;
 
 void instructionsJohnson();
 void AbdelAitroua();
+void madireddy();
 void rohi();
 void Shelton();
 void RyanLuig();
@@ -21,6 +22,7 @@ int main()
 	char pause;
 	instructionsJohnson();
 	AbdelAitroua();
+	madireddy();
 	rohi();
 	Shelton();
 	AndrewNash();
@@ -41,6 +43,11 @@ void instructionsJohnson()
 	cout << "6) Commit the changes to the file on your local machine. \n";
 	cout << "7) Push the committed changes to your remote GitHub repository. \n";
 	cout << "8) Submit a Pull Request with the updated file. \n";
+}
+void madireddy(){
+	cout<<" My name is MOUNIKA MADIREDDY \n";
+	cout << "Chuck Norris Said: EVERYONE HIS AGE IS OLDE5R THAN HIM." << endl;
+}
 }
 
 void AbdelAitroua(){
