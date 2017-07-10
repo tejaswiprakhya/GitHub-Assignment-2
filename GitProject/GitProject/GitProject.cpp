@@ -10,6 +10,7 @@ using namespace std;
 
 void instructionsJohnson();
 void AbdelAitroua();
+void rohi();
 void Shelton();
 void RyanLuig();
 void AndrewNash();
@@ -20,6 +21,7 @@ int main()
 	char pause;
 	instructionsJohnson();
 	AbdelAitroua();
+	rohi();
 	Shelton();
 	AndrewNash();
 	MatthewTrebing();
@@ -46,6 +48,14 @@ void AbdelAitroua(){
 	cout << "Chuck Norris Said: Chuck Norris CAN devide by zero" << endl;
 }
 
+
+void rohi()
+{
+	cout<<"Sheema rohi"<<"/n";
+	cout<<"Chuck Norris said once upon a time tom and jerry were friends \n";
+}
+}
+
 void Shelton()
 {
 	cout << "Benjamin Shelton" << endl;
@@ -69,6 +79,7 @@ void MatthewTrebing()
 	cout << "Matthew Trebing" << endl;
 	cout << "Jack was nimble, Jack was quick, but Jack still couldn't dodge Chuck Norris' roundhouse kick." << endl;
 }
+
 
 
 
