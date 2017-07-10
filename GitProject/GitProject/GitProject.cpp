@@ -10,12 +10,14 @@ using namespace std;
 
 void instructionsJohnson();
 void AbdelAitroua();
+void RephaelEdwards();
 
 int main()
-{	
-	char pause;
+{	git
+	char pause;got
 	instructionsJohnson();
 	AbdelAitroua();
+    RephaelEdwards();
 	cin >> pause;
 	return 0;
 }
@@ -38,3 +40,7 @@ void AbdelAitroua(){
 	cout << "Abdel Aitroua" << endl;
 	cout << "Chuck Norris Said: Chuck Norris CAN devide by zero" << endl;
 }
+
+void RephaelEdwards() {
+    cout << "RephaelEdwards" << endl;
+    cout << "Chuck Norris can kill two birds with one stone" << endl;
