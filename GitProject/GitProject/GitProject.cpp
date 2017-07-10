@@ -16,6 +16,7 @@ int main()
 	char pause;
 	instructionsJohnson();
 	AbdelAitroua();
+	Shelton();
 	cin >> pause;
 	return 0;
 }
@@ -37,4 +38,10 @@ void instructionsJohnson()
 void AbdelAitroua(){
 	cout << "Abdel Aitroua" << endl;
 	cout << "Chuck Norris Said: Chuck Norris CAN devide by zero" << endl;
+}
+
+void Shelton()
+{
+	cout << "Benjamin Shelton" << endl;
+	cout << "Chuck Norris can believe it's not butter" << endl;
 }
