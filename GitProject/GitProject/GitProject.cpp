@@ -10,6 +10,7 @@ using namespace std;
 
 void instructionsJohnson();
 void AbdelAitroua();
+void RyanLuig();
 
 void AndrewNash();
 void MatthewTrebing();
@@ -46,6 +47,12 @@ void AbdelAitroua(){
 }
 
 
+void RyanLuig(){
+	cout << "Ryan Luig" << endl;
+	cout << "Chuck Norris threw a grenade and killed 50 people, then it exploded." << endl;
+}
+
+
 void AndrewNash(){
 	cout << "Andrew Nash" << endl;
 	cout << "Chunck Norris Chuck Norris can pick oranges from an apple tree and make the best lemonade youve ever tasted." << endl;
@@ -56,4 +63,5 @@ void MatthewTrebing()
 	cout << "Matthew Trebing" << endl;
 	cout << "Jack was nimble, Jack was quick, but Jack still couldn't dodge Chuck Norris' roundhouse kick." << endl;
 }
+
 
