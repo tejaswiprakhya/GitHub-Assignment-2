@@ -11,13 +11,14 @@ using namespace std;
 void instructionsJohnson();
 void AbdelAitroua();
 void MatthewTrebing();
-
+void GayatriBhimani();
 int main()
 {	
 	char pause;
 	instructionsJohnson();
 	AbdelAitroua();
 	MatthewTrebing();
+	GayatriBhimani();
 	cin >> pause;
 	return 0;
 }
@@ -45,4 +46,9 @@ void MatthewTrebing()
 {
 	cout << "Matthew Trebing" << endl;
 	cout << "Jack was nimble, Jack was quick, but Jack still couldn't dodge Chuck Norris' roundhouse kick." << endl;
+}
+void GayatriBhimani()
+{
+	cout << "Gayatri Bhimani" << endl;
+	cout << "Chuck Norris said: Chuck Norris counted to infinity twice." << endl;
 }
