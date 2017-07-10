@@ -10,13 +10,12 @@ using namespace std;
 
 void instructionsJohnson();
 void AbdelAitroua();
-void madireddy();
-void rohi();
 void Shelton();
 void RyanLuig();
 void AdityaReddy();
 void AndrewNash();
 void MatthewTrebing();
+void pasupuleti();
 
 
 int main()
@@ -24,8 +23,6 @@ int main()
 	char pause;
 	instructionsJohnson();
 	AbdelAitroua();
-	madireddy();
-	rohi();
 	Shelton();
 	AndrewNash();
 	MatthewTrebing();
@@ -47,23 +44,10 @@ void instructionsJohnson()
 	cout << "7) Push the committed changes to your remote GitHub repository. \n";
 	cout << "8) Submit a Pull Request with the updated file. \n";
 }
-void madireddy(){
-	cout<<" My name is MOUNIKA MADIREDDY \n";
-	cout << "Chuck Norris Said: EVERYONE HIS AGE IS OLDE5R THAN HIM." << endl;
-}
-}
 
 void AbdelAitroua(){
 	cout << "Abdel Aitroua" << endl;
 	cout << "Chuck Norris Said: Chuck Norris CAN devide by zero" << endl;
-}
-
-
-void rohi()
-{
-	cout<<"Sheema rohi"<<"/n";
-	cout<<"Chuck Norris said once upon a time tom and jerry were friends \n";
-}
 }
 
 void Shelton()
@@ -94,5 +78,4 @@ void AdityaReddy()
 	cout<<"Aditya Reddy Kankanala"<< endl;
 	cout<<"Dont trouble the trouble" <<endl;
 }
-
 
