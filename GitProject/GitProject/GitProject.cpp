@@ -10,12 +10,13 @@ using namespace std;
 
 void instructionsJohnson();
 void AbdelAitroua();
-
+void ShailaMogalapu();
 int main()
 {	
 	char pause;
 	instructionsJohnson();
 	AbdelAitroua();
+	ShailaMogalapu();
 	cin >> pause;
 	return 0;
 }
@@ -37,4 +38,9 @@ void instructionsJohnson()
 void AbdelAitroua(){
 	cout << "Abdel Aitroua" << endl;
 	cout << "Chuck Norris Said: Chuck Norris CAN devide by zero" << endl;
+}
+
+void ShailaMogalapu(){
+	cout<<"Shaila Mogalapu"<<endl;
+	cout<<"Chuck Norris joke:Chuck Norris can build a snowman out of rain."<<endl;
 }
