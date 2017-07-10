@@ -10,12 +10,10 @@ using namespace std;
 
 void instructionsJohnson();
 void AbdelAitroua();
-void Shelton();
-void RyanLuig();
-void AdityaReddy();
+void nagulapally();
+
 void AndrewNash();
 void MatthewTrebing();
-void pasupuleti();
 
 
 int main()
@@ -23,10 +21,9 @@ int main()
 	char pause;
 	instructionsJohnson();
 	AbdelAitroua();
-	Shelton();
 	AndrewNash();
+	nagulapally();
 	MatthewTrebing();
-	AdityaReddy();
 	cin >> pause;
 	return 0;
 }
@@ -50,18 +47,6 @@ void AbdelAitroua(){
 	cout << "Chuck Norris Said: Chuck Norris CAN devide by zero" << endl;
 }
 
-void Shelton()
-{
-	cout << "Benjamin Shelton" << endl;
-	cout << "Chuck Norris can believe it's not butter" << endl;
-}
-
-
-void RyanLuig(){
-	cout << "Ryan Luig" << endl;
-	cout << "Chuck Norris threw a grenade and killed 50 people, then it exploded." << endl;
-}
-
 
 void AndrewNash(){
 	cout << "Andrew Nash" << endl;
@@ -73,9 +58,9 @@ void MatthewTrebing()
 	cout << "Matthew Trebing" << endl;
 	cout << "Jack was nimble, Jack was quick, but Jack still couldn't dodge Chuck Norris' roundhouse kick." << endl;
 }
-void AdityaReddy()
+void nagulapally()
 {
-	cout<<"Aditya Reddy Kankanala"<< endl;
-	cout<<"Dont trouble the trouble" <<endl;
-}
+	cout<<" Nagulapally SaiKiranReddy"<<endl;
+	cout << "You know why you never see elephants hiding up in trees?"<<endl;
+        cout << "Because they’re really good at it."<<endl;
 
