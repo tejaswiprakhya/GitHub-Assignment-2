@@ -10,13 +10,17 @@ using namespace std;
 
 void instructionsJohnson();
 void AbdelAitroua();
+
+void AndrewNash();
 void MatthewTrebing();
+
 
 int main()
 {	
 	char pause;
 	instructionsJohnson();
 	AbdelAitroua();
+	AndrewNash();
 	MatthewTrebing();
 	cin >> pause;
 	return 0;
@@ -41,8 +45,15 @@ void AbdelAitroua(){
 	cout << "Chuck Norris Said: Chuck Norris CAN devide by zero" << endl;
 }
 
+
+void AndrewNash(){
+	cout << "Andrew Nash" << endl;
+	cout << "Chunck Norris Chuck Norris can pick oranges from an apple tree and make the best lemonade youve ever tasted." << endl;
+}
+
 void MatthewTrebing()
 {
 	cout << "Matthew Trebing" << endl;
 	cout << "Jack was nimble, Jack was quick, but Jack still couldn't dodge Chuck Norris' roundhouse kick." << endl;
 }
+
