@@ -17,6 +17,7 @@ int main()
 	char pause;
 	instructionsJohnson();
 	AbdelAitroua();
+	smith();
 	cin >> pause;
 	return 0;
 }
