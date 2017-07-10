@@ -11,6 +11,7 @@ using namespace std;
 void instructionsJohnson();
 void AbdelAitroua();
 void MatthewTrebing();
+void akuthota();
 
 int main()
 {	
@@ -18,6 +19,7 @@ int main()
 	instructionsJohnson();
 	AbdelAitroua();
 	MatthewTrebing();
+	akuthota();
 	cin >> pause;
 	return 0;
 }
@@ -39,6 +41,10 @@ void instructionsJohnson()
 void AbdelAitroua(){
 	cout << "Abdel Aitroua" << endl;
 	cout << "Chuck Norris Said: Chuck Norris CAN devide by zero" << endl;
+}
+void akuthota()
+{cout<<"Mounika Akuthota";
+ cout<<"Chuck Norris Said:After Monday and Tuesday even the calendar says W T F."<<endl;
 }
 
 void MatthewTrebing()
