@@ -12,6 +12,7 @@ void instructionsJohnson();
 void AbdelAitroua();
 void Shelton();
 void RyanLuig();
+void VictorNnabuenyi();
 void AndrewNash();
 void MatthewTrebing();
 
@@ -21,6 +22,7 @@ int main()
 	instructionsJohnson();
 	AbdelAitroua();
 	Shelton();
+	VictorNnabuenyi();
 	AndrewNash();
 	MatthewTrebing();
 	cin >> pause;
@@ -53,11 +55,15 @@ void Shelton()
 }
 
 
+void VictorNnabuenyi(){
+	cout << "Victor Nnabuenyi" << endl;
+	cout << "Chuck Norris is a very funny man." << endl;
+}
+
 void RyanLuig(){
 	cout << "Ryan Luig" << endl;
 	cout << "Chuck Norris threw a grenade and killed 50 people, then it exploded." << endl;
 }
-
 
 void AndrewNash(){
 	cout << "Andrew Nash" << endl;
