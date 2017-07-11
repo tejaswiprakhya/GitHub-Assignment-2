@@ -9,6 +9,8 @@
 using namespace std;
 
 void instructionsJohnson();
+
+void Redhead();
 void Vootkuri();
 void AbdelAitroua();
 void nagulapally();
@@ -34,6 +36,7 @@ int main()
 {	git
 	char pause;got
 	instructionsJohnson();
+	Redhead();
 	Vootkuri();
 	AbdelAitroua();
 	ShailaMogalapu();
@@ -70,6 +73,13 @@ void Vootkuri(){
 	cout << "Thejaswini reddy Vootkuri" << endl;
 	cout << "Chuck Norris Said: Chuck Norris CAN devide by zero" << endl;
 }
+
+void Redhead()
+{
+	cout << "Johann Redhead" << endl;
+	cout << "Chuck Norris has a diary. It's called the Guinness Book of World Records." << endl;
+}
+
 void akuthota()
 {cout<<"Mounika Akuthota";
  cout<<"Chuck Norris Said:After Monday and Tuesday even the calendar says W T F."<<endl;
@@ -138,6 +148,5 @@ void Alathel(){
 	cout << "Abdullah Alathel" << endl;
 	cout << "Chuck Norris threw a grenade and killed 50 people, then it exploded." << endl;
 }
-
 
 
