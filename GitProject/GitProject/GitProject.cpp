@@ -20,9 +20,11 @@ void RyanLuig();
 void AdityaReddy();
 void AndrewNash();
 void MatthewTrebing();
+void GayatriBhimani();
 void akuthota();
 void pasupuleti();
 void Alathel();
+
 
 
 int main()
@@ -38,6 +40,7 @@ int main()
 	Shelton();
 	AndrewNash();
 	MatthewTrebing();
+	GayatriBhimani();
 	akuthota();
 	AdityaReddy();
 	Alathel();
@@ -111,6 +114,13 @@ void MatthewTrebing()
 	cout << "Jack was nimble, Jack was quick, but Jack still couldn't dodge Chuck Norris' roundhouse kick." << endl;
 }
 
+void GayatriBhimani()
+{
+	cout << "Gayatri Bhimani" << endl;
+	cout << "Chuck Norris said: Chuck Norris counted to infinity twice." << endl;
+}
+
+
 void AdityaReddy()
 {
 	cout<<"Aditya Reddy Kankanala"<< endl;
@@ -122,5 +132,6 @@ void Alathel(){
 	cout << "Abdullah Alathel" << endl;
 	cout << "Chuck Norris threw a grenade and killed 50 people, then it exploded." << endl;
 }
+
 
 
