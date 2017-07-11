@@ -145,6 +145,11 @@ void GyaneshwarMalba()
 }
 
 void nagulapally()
+{
+	cout<<" Nagulapally SaiKiranReddy"<<endl;
+	cout << "You know why you never see elephants hiding up in trees?"<<endl;
+        cout << "Because they’re really good at it."<<endl;
+}
 
 
 void GayatriBhimani()
