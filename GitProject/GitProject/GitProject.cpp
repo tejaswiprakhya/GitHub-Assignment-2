@@ -19,6 +19,7 @@ void RyanLuig();
 void AdityaReddy();
 void AndrewNash();
 void MatthewTrebing();
+void akuthota();
 void pasupuleti();
 
 int main()
@@ -33,6 +34,7 @@ int main()
 	Shelton();
 	AndrewNash();
 	MatthewTrebing();
+	akuthota();
 	AdityaReddy();
 	cin >> pause;
 	return 0;
@@ -55,6 +57,10 @@ void instructionsJohnson()
 void AbdelAitroua(){
 	cout << "Abdel Aitroua" << endl;
 	cout << "Chuck Norris Said: Chuck Norris CAN devide by zero" << endl;
+}
+void akuthota()
+{cout<<"Mounika Akuthota";
+ cout<<"Chuck Norris Said:After Monday and Tuesday even the calendar says W T F."<<endl;
 }
 
 
@@ -99,12 +105,11 @@ void MatthewTrebing()
 	cout << "Matthew Trebing" << endl;
 	cout << "Jack was nimble, Jack was quick, but Jack still couldn't dodge Chuck Norris' roundhouse kick." << endl;
 }
+
 void AdityaReddy()
 {
 	cout<<"Aditya Reddy Kankanala"<< endl;
 	cout<<"Dont trouble the trouble" <<endl;
 }
-
-
 
 
