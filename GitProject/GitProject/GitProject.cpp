@@ -11,6 +11,9 @@ using namespace std;
 void instructionsJohnson();
 void Vootkuri();
 void AbdelAitroua();
+void nagulapally();
+void AndrewNash();
+void MatthewTrebing();
 void ShailaMogalapu();
 void RephaelEdwards();
 void Tran();
@@ -39,6 +42,7 @@ int main()
 	smith();
 	Shelton();
 	AndrewNash();
+	nagulapally();
 	MatthewTrebing();
 	GayatriBhimani();
 	akuthota();
@@ -113,6 +117,8 @@ void MatthewTrebing()
 	cout << "Matthew Trebing" << endl;
 	cout << "Jack was nimble, Jack was quick, but Jack still couldn't dodge Chuck Norris' roundhouse kick." << endl;
 }
+void nagulapally()
+
 
 void GayatriBhimani()
 {
@@ -123,9 +129,9 @@ void GayatriBhimani()
 
 void AdityaReddy()
 {
-	cout<<"Aditya Reddy Kankanala"<< endl;
-	cout<<"Dont trouble the trouble" <<endl;
-}
+	cout<<" Nagulapally SaiKiranReddy"<<endl;
+	cout << "You know why you never see elephants hiding up in trees?"<<endl;
+        cout << "Because they’re really good at it."<<endl;
 
 
 void Alathel(){
