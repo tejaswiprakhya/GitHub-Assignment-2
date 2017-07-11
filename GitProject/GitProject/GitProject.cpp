@@ -10,6 +10,7 @@ using namespace std;
 
 void instructionsJohnson();
 void AbdelAitroua();
+void ShailaMogalapu();
 void RephaelEdwards();
 void Tran();
 void smith();
@@ -20,13 +21,12 @@ void AndrewNash();
 void MatthewTrebing();
 void pasupuleti();
 
-
-
 int main()
 {	git
 	char pause;got
 	instructionsJohnson();
 	AbdelAitroua();
+	ShailaMogalapu();
   RephaelEdwards();
 	Tran();
 	smith();
@@ -58,6 +58,10 @@ void AbdelAitroua(){
 }
 
 
+void ShailaMogalapu(){
+	cout<<"Shaila Mogalapu"<<endl;
+	cout<<"Chuck Norris joke:Chuck Norris can build a snowman out of rain."<<endl;
+}
 
 void RephaelEdwards() {
     cout << "RephaelEdwards" << endl;
@@ -67,7 +71,6 @@ void smith(){
 	cout << "Tellon Smith" << endl;
 	cout << "Chuck Norris can kill two stones with one bird" << endl;
 }
-
 
 void Shelton()
 {
