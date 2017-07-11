@@ -31,7 +31,7 @@ void GayatriBhimani();
 void akuthota();
 void pasupuleti();
 void Alathel();
-
+void kattreddy()
 
 int main()
 {	git
@@ -54,6 +54,7 @@ int main()
 	akuthota();
 	AdityaReddy();
 	Alathel();
+        kattreddy();
 	cin >> pause;
 	return 0;
 }
@@ -71,7 +72,10 @@ void instructionsJohnson()
 	cout << "7) Push the committed changes to your remote GitHub repository. \n";
 	cout << "8) Submit a Pull Request with the updated file. \n";
 }
-
+void kattreddy(){
+	cout << "Madhuchirra Reddy Kattreddy"<<endl;
+	cout << "Chuck Norris can strangle you with a cordless phone"<<endl;
+}		
 void Vootkuri(){
 	cout << "Thejaswini reddy Vootkuri" << endl;
 	cout << "Chuck Norris Said: Chuck Norris CAN devide by zero" << endl;
