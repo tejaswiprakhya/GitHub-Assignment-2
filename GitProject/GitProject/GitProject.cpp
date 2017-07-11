@@ -9,6 +9,7 @@
 using namespace std;
 
 void instructionsJohnson();
+void Vootkuri();
 void AbdelAitroua();
 void ShailaMogalapu();
 void RephaelEdwards();
@@ -26,6 +27,7 @@ int main()
 {	git
 	char pause;got
 	instructionsJohnson();
+	Vootkuri();
 	AbdelAitroua();
 	ShailaMogalapu();
   RephaelEdwards();
@@ -54,8 +56,8 @@ void instructionsJohnson()
 	cout << "8) Submit a Pull Request with the updated file. \n";
 }
 
-void AbdelAitroua(){
-	cout << "Abdel Aitroua" << endl;
+void Vootkuri(){
+	cout << "Thejaswini reddy Vootkuri" << endl;
 	cout << "Chuck Norris Said: Chuck Norris CAN devide by zero" << endl;
 }
 void akuthota()
