@@ -25,11 +25,11 @@ void RyanLuig();
 void AdityaReddy();
 void AndrewNash();
 void MatthewTrebing();
+void GyaneshwarMalba();
 void GayatriBhimani();
 void akuthota();
 void pasupuleti();
 void Alathel();
-
 
 
 int main()
@@ -47,6 +47,7 @@ int main()
 	AndrewNash();
 	nagulapally();
 	MatthewTrebing();
+	GyaneshwarMalba();
 	GayatriBhimani();
 	akuthota();
 	AdityaReddy();
@@ -127,6 +128,13 @@ void MatthewTrebing()
 	cout << "Matthew Trebing" << endl;
 	cout << "Jack was nimble, Jack was quick, but Jack still couldn't dodge Chuck Norris' roundhouse kick." << endl;
 }
+
+void GyaneshwarMalba()
+{
+	cout << "Gyaneshwar Malba" << endl;	
+	cout << "In space Chuck Norris can hear you scream" << endl;
+}
+
 void nagulapally()
 
 
