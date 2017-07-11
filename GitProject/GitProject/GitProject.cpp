@@ -22,6 +22,8 @@ void AndrewNash();
 void MatthewTrebing();
 void akuthota();
 void pasupuleti();
+void Alathel();
+
 
 int main()
 {	git
@@ -38,6 +40,7 @@ int main()
 	MatthewTrebing();
 	akuthota();
 	AdityaReddy();
+	Alathel();
 	cin >> pause;
 	return 0;
 }
@@ -112,6 +115,12 @@ void AdityaReddy()
 {
 	cout<<"Aditya Reddy Kankanala"<< endl;
 	cout<<"Dont trouble the trouble" <<endl;
+}
+
+
+void Alathel(){
+	cout << "Abdullah Alathel" << endl;
+	cout << "Chuck Norris threw a grenade and killed 50 people, then it exploded." << endl;
 }
 
 
