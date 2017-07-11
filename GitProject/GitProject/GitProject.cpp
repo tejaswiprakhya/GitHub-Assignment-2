@@ -22,6 +22,7 @@ void Tran();
 void smith();
 void Shelton();
 void RyanLuig();
+void VictorNnabuenyi();
 void AdityaReddy();
 void AndrewNash();
 void MatthewTrebing();
@@ -44,6 +45,7 @@ int main()
 	Tran();
 	smith();
 	Shelton();
+	VictorNnabuenyi();
 	AndrewNash();
 	nagulapally();
 	MatthewTrebing();
@@ -107,16 +109,23 @@ void Shelton()
 	cout << "Chuck Norris can believe it's not butter" << endl;
 }
 
+void VictorNnabuenyi(){
+	cout << "Victor Nnabuenyi" << endl;
+	cout << "Chuck Norris is a very funny man." << endl;
+}
+
 void RyanLuig(){
 	cout << "Ryan Luig" << endl;
 	cout << "Chuck Norris threw a grenade and killed 50 people, then it exploded." << endl;
 }
+
 
 void Tran()
 {
 	cout << "My name is Johnny Tran" << endl;
 	cout << "Chuck Norris' tears cure cancer. Too bad he has never cried." << endl;
 }
+
 
 void AndrewNash(){
 	cout << "Andrew Nash" << endl;
