@@ -10,6 +10,7 @@ using namespace std;
 
 void instructionsJohnson();
 void AbdelAitroua();
+void RephaelEdwards();
 void Tran();
 void smith();
 void Shelton();
@@ -22,10 +23,11 @@ void pasupuleti();
 
 
 int main()
-{	
-	char pause;
+{	git
+	char pause;got
 	instructionsJohnson();
 	AbdelAitroua();
+  RephaelEdwards();
 	Tran();
 	smith();
 	Shelton();
@@ -55,10 +57,17 @@ void AbdelAitroua(){
 	cout << "Chuck Norris Said: Chuck Norris CAN devide by zero" << endl;
 }
 
+
+
+void RephaelEdwards() {
+    cout << "RephaelEdwards" << endl;
+    cout << "Chuck Norris can kill two birds with one stone" << endl;
+
 void smith(){
 	cout << "Tellon Smith" << endl;
 	cout << "Chuck Norris can kill two stones with one bird" << endl;
 }
+
 
 void Shelton()
 {
@@ -92,6 +101,7 @@ void AdityaReddy()
 	cout<<"Aditya Reddy Kankanala"<< endl;
 	cout<<"Dont trouble the trouble" <<endl;
 }
+
 
 
 
