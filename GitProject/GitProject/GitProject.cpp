@@ -11,9 +11,14 @@ using namespace std;
 void instructionsJohnson();
 void AbdelAitroua();
 void Tran();
-
+void smith();
+void Shelton();
+void RyanLuig();
+void AdityaReddy();
 void AndrewNash();
 void MatthewTrebing();
+void pasupuleti();
+
 
 
 int main()
@@ -22,8 +27,11 @@ int main()
 	instructionsJohnson();
 	AbdelAitroua();
 	Tran();
+	smith();
+	Shelton();
 	AndrewNash();
 	MatthewTrebing();
+	AdityaReddy();
 	cin >> pause;
 	return 0;
 }
@@ -47,6 +55,21 @@ void AbdelAitroua(){
 	cout << "Chuck Norris Said: Chuck Norris CAN devide by zero" << endl;
 }
 
+void smith(){
+	cout << "Tellon Smith" << endl;
+	cout << "Chuck Norris can kill two stones with one bird" << endl;
+}
+
+void Shelton()
+{
+	cout << "Benjamin Shelton" << endl;
+	cout << "Chuck Norris can believe it's not butter" << endl;
+}
+
+void RyanLuig(){
+	cout << "Ryan Luig" << endl;
+	cout << "Chuck Norris threw a grenade and killed 50 people, then it exploded." << endl;
+}
 
 void Tran()
 {
@@ -64,5 +87,11 @@ void MatthewTrebing()
 	cout << "Matthew Trebing" << endl;
 	cout << "Jack was nimble, Jack was quick, but Jack still couldn't dodge Chuck Norris' roundhouse kick." << endl;
 }
+void AdityaReddy()
+{
+	cout<<"Aditya Reddy Kankanala"<< endl;
+	cout<<"Dont trouble the trouble" <<endl;
+}
+
 
 
