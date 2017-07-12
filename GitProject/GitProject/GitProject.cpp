@@ -120,7 +120,7 @@ void AdityaReddy()
 
 void Alathel(){
 	cout << "Abdullah Alathel" << endl;
-	cout << "Chuck Norris threw a grenade and killed 50 people, then it exploded." << endl;
+	cout << "Chuck Norris can make a happy meal cry." << endl;
 }
 
 
