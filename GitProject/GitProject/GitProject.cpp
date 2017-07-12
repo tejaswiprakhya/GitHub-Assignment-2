@@ -145,8 +145,12 @@ void GyaneshwarMalba()
 }
 
 void nagulapally()
-
-
+{
+	cout<< "saikiranreddy nagulapally"<<endl;
+	cout<< " what do you call people who dont believe in going to gym?"<<endl;
+	cout<< "GymNasticks"<<endl;
+}
+	
 void GayatriBhimani()
 {
 	cout << "Gayatri Bhimani" << endl;
