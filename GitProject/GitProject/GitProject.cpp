@@ -32,6 +32,8 @@ void akuthota();
 void pasupuleti();
 void Alathel();
 void kattreddy()
+void Dayal();
+
 
 int main()
 {	git
@@ -54,7 +56,8 @@ int main()
 	akuthota();
 	AdityaReddy();
 	Alathel();
-        kattreddy();
+  kattreddy();
+ 	Dayal();
 	cin >> pause;
 	return 0;
 }
@@ -149,8 +152,20 @@ void GyaneshwarMalba()
 }
 
 void nagulapally()
+{
+	cout<<" Nagulapally SaiKiranReddy"<<endl;
+	cout << " Chuck Norris You know why you never see elephants hiding up in trees?"<<endl;
+	cout << "You know why you never see elephants hiding up in trees?"<<endl;
+  cout << "Because they’re really good at it."<<endl;
+}
 
 
+
+	cout<< "saikiranreddy nagulapally"<<endl;
+	cout<< " what do you call people who dont believe in going to gym?"<<endl;
+	cout<< "GymNasticks"<<endl;
+}
+	
 void GayatriBhimani()
 {
 	cout << "Gayatri Bhimani" << endl;
@@ -160,9 +175,8 @@ void GayatriBhimani()
 
 void AdityaReddy()
 {
-	cout<<" Nagulapally SaiKiranReddy"<<endl;
-	cout << "You know why you never see elephants hiding up in trees?"<<endl;
-        cout << "Because they’re really good at it."<<endl;
+	cout<<" aditya reddy kankanala"<<endl;
+	
 
 
 void Alathel(){
@@ -170,4 +184,9 @@ void Alathel(){
 	cout << "Chuck Norris threw a grenade and killed 50 people, then it exploded." << endl;
 }
 
+void Dayal()
+{
+	cout << "Sharath Kumar Dayal" << endl;	
+	cout << "Yo mama so stupid, she returned a donut because it had a hole in it." << endl;
+}
 
