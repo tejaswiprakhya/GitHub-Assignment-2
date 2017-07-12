@@ -13,6 +13,7 @@ void instructionsJohnson();
 void Redhead();
 void Vootkuri();
 void AbdelAitroua();
+void ShashankNamala();
 void nagulapally();
 void AndrewNash();
 void MatthewTrebing();
@@ -42,6 +43,7 @@ int main()
 	Redhead();
 	Vootkuri();
 	AbdelAitroua();
+	ShashankNamala();
 	ShailaMogalapu();
   RephaelEdwards();
 	Tran();
@@ -84,6 +86,10 @@ void Vootkuri(){
 	cout << "Chuck Norris Said: Chuck Norris CAN devide by zero" << endl;
 }
 
+void ShashankNamala(){
+	cout << "Shashank Namala" << endl;
+	cout << "Cars look both ways before Chuck Norris crosses the street." << endl;
+}
 void Redhead()
 {
 	cout << "Johann Redhead" << endl;
