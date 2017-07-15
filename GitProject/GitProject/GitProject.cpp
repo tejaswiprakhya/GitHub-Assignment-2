@@ -161,16 +161,11 @@ void nagulapally()
 {
 	cout<<" Nagulapally SaiKiranReddy"<<endl;
 	cout << " Chuck Norris You know why you never see elephants hiding up in trees?"<<endl;
-	cout << "You know why you never see elephants hiding up in trees?"<<endl;
-  cout << "Because they’re really good at it."<<endl;
+        cout << "Because they’re really good at it."<<endl;
 }
 
 
 
-	cout<< "saikiranreddy nagulapally"<<endl;
-	cout<< " what do you call people who dont believe in going to gym?"<<endl;
-	cout<< "GymNasticks"<<endl;
-}
 	
 void GayatriBhimani()
 {
